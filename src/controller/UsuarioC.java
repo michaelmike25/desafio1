@@ -8,7 +8,7 @@ import model.Usuario;
 import static view.UsuarioV.imprime;
 
 /**
- * iniciar
+ * iniciar code
  * @author 3208893
  */
 

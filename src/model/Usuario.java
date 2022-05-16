@@ -5,7 +5,7 @@ package model;
  *
  * @author Mohalk
  */
-public class Usuario {
+public class Usuario { // atributos
 
     private int codigo; // funcionando como id
     private String nome;
